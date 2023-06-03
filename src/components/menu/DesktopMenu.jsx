@@ -1,4 +1,4 @@
-import { menu } from "../store/menu";
+import { menu } from "../../store/menu";
 
 const DesktopMenu = () => {
   return (

@@ -1,5 +1,5 @@
-import { menu } from "../store/menu";
-import { ReactComponent as Close } from "../assets/images/icon-menu-close.svg";
+import { menu } from "../../store/menu";
+import { ReactComponent as Close } from "../../assets/images/icon-menu-close.svg";
 
 const MobileMenu = ({ onClose }) => {
   return (
@@ -7,11 +7,11 @@ const MobileMenu = ({ onClose }) => {
       <button aria-label="close menu" className="self-end" onClick={onClose}>
         <Close aria-hidden={true} focusable={false} />
       </button>
-      <ul className="pt-20 flex flex-col gap-y-4">
+      <ul className="flex flex-col gap-y-4 pt-20">
         {menu.map((item, index) => {
           return (
             <li key={index} className="pt-1">
-              <a href="#" className="font-Inter text-very-dark-blue text-lg">
+              <a href="#" className="font-Inter text-lg text-very-dark-blue">
                 {item}
               </a>
             </li>

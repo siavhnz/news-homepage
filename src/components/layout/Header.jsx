@@ -1,4 +1,4 @@
-import { ReactComponent as Logo } from "../assets/images/logo.svg";
+import { ReactComponent as Logo } from "../../assets/images/logo.svg";
 import Navigation from "../menu/Navigation";
 
 const Header = () => {

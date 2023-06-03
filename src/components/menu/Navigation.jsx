@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ReactComponent as Hambur } from "../assets/images/icon-menu.svg";
+import { ReactComponent as Hambur } from "../../assets/images/icon-menu.svg";
 import { Drawer } from "@mui/material";
 import MobileMenu from "./MobileMenu";
 import DesktopMenu from "./DesktopMenu";
