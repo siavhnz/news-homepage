@@ -1,6 +1,7 @@
+import NewsHomepage from "./pages/NewsHomepage";
 
 function App() {
-  return <>News homepage</>;
+  return <NewsHomepage />;
 }
 
 export default App;
