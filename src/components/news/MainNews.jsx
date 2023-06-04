@@ -11,7 +11,7 @@ const MainNews = () => {
           srcSet="/images/image-web-3-desktop.jpg"
         />
         <img
-          srcSet="/images/image-web-3-mobile.jpg"
+          src="/images/image-web-3-mobile.jpg"
           alt="The Bright Future of Web 3.0?"
         />
       </picture>

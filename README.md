@@ -11,9 +11,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -32,25 +29,28 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/news-homepage-PaVWpKOmZW)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://news-homepage-ew2.pages.dev/)
 
 ## My process
 
 - Prepare Project (Download assets, Install Vite, Initialize git, Prepare project)
+- Create components
+  - 1.Identify a component
+  - 2.Code component
+  - 3.Style in mobile and desktop
+  - 4.Go to step 1
+  - Layout, Header, Menu, NewsHomepage, MainNews, LatestNews, NumberedNews
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/647b2d2c815c245a69024aca)
+- [My Clockify Report](https://app.clockify.me/shared/647c475994f4c64acaaebdbc)
 
 ### Built with
 
-### What I learned
-
-### Continued development
-
-### Useful resources
+- React
+- TailwindCss
 
 ## Author
 
