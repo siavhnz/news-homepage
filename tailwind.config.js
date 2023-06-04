@@ -15,6 +15,10 @@ export default {
       padding: {
         22: "5.5rem",
       },
+      margin: {
+        15: "3.75rem",
+        18: "4.5rem",
+      },
       fontFamily: {
         Inter: ["Inter", "sans-serif"],
       },

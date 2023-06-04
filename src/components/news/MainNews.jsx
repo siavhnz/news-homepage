@@ -1,6 +1,6 @@
 const MainNews = () => {
   return (
-    <secion>
+    <section>
       <picture>
         <source
           media="(max-width: 686px)"
@@ -16,7 +16,7 @@ const MainNews = () => {
         />
       </picture>
       <div className="sxl:flex">
-        <h1 className="pr-8 flex-1 pt-6 font-Inter text-[2.5rem] font-bold leading-10 sxl:pt-8 sxl:text-[3.5rem] sxl:leading-[3.65rem]">
+        <h1 className="flex-1 pr-8 pt-6 font-Inter text-[2.5rem] font-bold leading-10 sxl:pt-8 sxl:text-[3.5rem] sxl:leading-[3.65rem]">
           The Bright Future of Web 3.0?
         </h1>
         <div className="flex-1">
@@ -32,7 +32,7 @@ const MainNews = () => {
           </div>
         </div>
       </div>
-    </secion>
+    </section>
   );
 };
 
